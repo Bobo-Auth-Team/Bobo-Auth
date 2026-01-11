@@ -1,7 +1,22 @@
 # Code of Conduct
 
-All contributors are expected to treat others with respect and professionalism.
+We are committed to fostering a welcoming, respectful, and inclusive community.
 
-Harassment, discrimination, or abusive behavior will not be tolerated.
+## Expected Behavior
+- Be respectful and considerate.
+- Communicate openly and constructively.
+- Assume good intentions from others.
+- Help create a positive environment for everyone.
 
-If you experience or witness unacceptable behavior, please open an issue or contact the maintainers privately.
+## Unacceptable Behavior
+- Harassment, discrimination, or personal attacks.
+- Threatening, abusive, or aggressive conduct.
+- Sharing private information without consent.
+- Disruptive or intentionally harmful behavior.
+
+## Reporting Issues
+If you experience or witness unacceptable behavior, please contact the maintainers privately.  
+Reports will be handled confidentially and respectfully.
+
+## Enforcement
+The maintainers may take appropriate action to maintain a safe and respectful community.
